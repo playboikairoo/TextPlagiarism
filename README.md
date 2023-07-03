@@ -44,3 +44,8 @@ You have to give in two arrays of integers as input and the size N and it will c
 #### CalculateSimilarity(string[] words1, string[] words2)
     returns int
     Calculates the similarity between two arrays of words
+
+
+# Test cases
+
+
