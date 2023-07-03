@@ -48,7 +48,8 @@ You have to give in two arrays of integers as input and the size N and it will c
 
 # Test cases
 
-![TP1](https://github.com/playboikairoo/TextPlagiarism/assets/103595234/d5943ab6-5429-4080-b09d-a69503176ce5)
+![TP1](https://github.com/playboikairoo/TextPlagiarism/assets/103595234/4d1bce18-c67e-4562-b17e-c5a30cd88d11)
+
 ![TP2](https://github.com/playboikairoo/TextPlagiarism/assets/103595234/77a7da1b-b911-468a-9c18-4b82349c588d)
 
 # Contributing
