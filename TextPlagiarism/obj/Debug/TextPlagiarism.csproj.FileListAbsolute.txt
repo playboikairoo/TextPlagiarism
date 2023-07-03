@@ -1,0 +1,27 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[SOLUTION]\TextPlagiarism\bin\Debug\TextPlagiarism.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[SOLUTION]\TextPlagiarism\bin\Debug\TextPlagiarism.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[SOLUTION]\TextPlagiarism\bin\Debug\TextPlagiarism.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[SOLUTION]\TextPlagiarism\obj\Debug\TextPlagiarism.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[SOLUTION]\TextPlagiarism\obj\Debug\TextPlagiarism.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[SOLUTION]\TextPlagiarism\obj\Debug\TextPlagiarism.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[TEMPLATE]\TextPlagiarism\bin\Debug\TextPlagiarism.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[TEMPLATE]\TextPlagiarism\obj\Debug\TextPlagiarism.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[TEMPLATE]\TextPlagiarism\obj\Debug\TextPlagiarism.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[TEMPLATE]\TextPlagiarism\bin\Debug\TextPlagiarism.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[TEMPLATE]\TextPlagiarism\bin\Debug\TextPlagiarism.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[R1] Text Plagiarism\[TEMPLATE]\TextPlagiarism\obj\Debug\TextPlagiarism.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Desktop\Ass 4 algo\[TEMPLATE]\TextPlagiarism\bin\Debug\TextPlagiarism.exe.config
+C:\Users\Lenovo\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Desktop\Ass 4 algo\[TEMPLATE]\TextPlagiarism\bin\Debug\TextPlagiarism.exe
+C:\Users\Lenovo\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Desktop\Ass 4 algo\[TEMPLATE]\TextPlagiarism\bin\Debug\TextPlagiarism.pdb
+C:\Users\Lenovo\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Desktop\Ass 4 algo\[TEMPLATE]\TextPlagiarism\obj\Debug\TextPlagiarism.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Desktop\Ass 4 algo\[TEMPLATE]\TextPlagiarism\obj\Debug\TextPlagiarism.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Desktop\Ass 4 algo\[TEMPLATE]\TextPlagiarism\obj\Debug\TextPlagiarism.exe
+C:\Users\Lenovo\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\Desktop\Ass 4 algo\[TEMPLATE]\TextPlagiarism\obj\Debug\TextPlagiarism.pdb
+D:\Studying\sixthSem\TextPlagiarism\TextPlagiarism\bin\Debug\TextPlagiarism.exe.config
+D:\Studying\sixthSem\TextPlagiarism\TextPlagiarism\bin\Debug\TextPlagiarism.exe
+D:\Studying\sixthSem\TextPlagiarism\TextPlagiarism\bin\Debug\TextPlagiarism.pdb
+D:\Studying\sixthSem\TextPlagiarism\TextPlagiarism\obj\Debug\TextPlagiarism.csproj.AssemblyReference.cache
+D:\Studying\sixthSem\TextPlagiarism\TextPlagiarism\obj\Debug\TextPlagiarism.csproj.SuggestedBindingRedirects.cache
+D:\Studying\sixthSem\TextPlagiarism\TextPlagiarism\obj\Debug\TextPlagiarism.csproj.CoreCompileInputs.cache
+D:\Studying\sixthSem\TextPlagiarism\TextPlagiarism\obj\Debug\TextPlagiarism.exe
+D:\Studying\sixthSem\TextPlagiarism\TextPlagiarism\obj\Debug\TextPlagiarism.pdb
