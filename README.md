@@ -48,4 +48,11 @@ You have to give in two arrays of integers as input and the size N and it will c
 
 # Test cases
 
+![TP1](https://github.com/playboikairoo/TextPlagiarism/assets/103595234/d5943ab6-5429-4080-b09d-a69503176ce5)
+![TP2](https://github.com/playboikairoo/TextPlagiarism/assets/103595234/77a7da1b-b911-468a-9c18-4b82349c588d)
 
+# Contributing
+Contributions to this library are welcome! If you find a bug or have a feature request, please open an issue on the GitHub repository.
+
+# Contact
+If you have any questions or concerns about this library, please feel free to contact me at alhusseingomma194@gmail.com
