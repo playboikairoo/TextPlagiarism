@@ -50,7 +50,8 @@ You have to give in two arrays of integers as input and the size N and it will c
 
 ![TP1](https://github.com/playboikairoo/TextPlagiarism/assets/103595234/4d1bce18-c67e-4562-b17e-c5a30cd88d11)
 
-![TP2](https://github.com/playboikairoo/TextPlagiarism/assets/103595234/77a7da1b-b911-468a-9c18-4b82349c588d)
+![TP2](https://github.com/playboikairoo/TextPlagiarism/assets/103595234/4b982341-6595-49a6-b17b-c9a2abeb8782)
+
 
 # Contributing
 Contributions to this library are welcome! If you find a bug or have a feature request, please open an issue on the GitHub repository.
