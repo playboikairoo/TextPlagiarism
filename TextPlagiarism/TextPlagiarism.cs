@@ -80,7 +80,7 @@ namespace Problem
                 LongestCommonSubs(wordsInParagraph, wordWords, longestCommonSubsequence);
 
                 // Check if the current longest common subsequence is greater than the previous maximum
-                maxCommonSubsequence = Cheaker(wordsInParagraph, maxCommonSubsequence, commonWords, wordWords, longestCommonSubsequence);
+                maxCommonSubsequence = Checker(wordsInParagraph, maxCommonSubsequence, commonWords, wordWords, longestCommonSubsequence);
             }
 
             return commonWords.ToArray();
@@ -100,7 +100,7 @@ namespace Problem
         }
 
         // Updates the maximum common subsequence and reconstructs the common words list
-        private static int Cheaker(string[] wordsInParagraph, int maxCommonSubsequence, List<string> commonWords, string[] wordWords, int[,] longestCommonSubsequence)
+        private static int Checker(string[] wordsInParagraph, int maxCommonSubsequence, List<string> commonWords, string[] wordWords, int[,] longestCommonSubsequence)
         {
             if (longestCommonSubsequence[wordsInParagraph.Length, wordWords.Length] > maxCommonSubsequence)
             {
